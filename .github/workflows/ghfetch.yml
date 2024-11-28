@@ -37,7 +37,7 @@ jobs:
     - name: Generate ghfetch gif with vhs
       run: |
         export GITHUB_TOKEN=${{ secrets.API_TOKEN_GITHUB }}
-        vhs < img/demo.tape
+        vhs < img/ghfetch.tape
     - name: Commit and push if there are changes
       run: |
         git add img/demo.gif
