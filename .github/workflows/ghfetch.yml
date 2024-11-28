@@ -40,7 +40,7 @@ jobs:
         vhs < img/ghfetch.tape
     - name: Commit and push if there are changes
       run: |
-        git add img/demo.gif
+        git add img/ghfetch.gif
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "Update ghfetch gif" -a || echo "No changes to commit"
