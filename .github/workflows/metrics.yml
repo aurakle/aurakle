@@ -35,7 +35,7 @@ jobs:
           config_display: large
           config_timezone: America/Toronto
           config_twemoji: yes
-          plugin_activity: yes
+          #plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
