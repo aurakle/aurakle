@@ -1,7 +1,5 @@
 # About Me
 
-[Home Page](https://stellarwitch7.github.io)
-
 ## The Basics
 
 - Names: Aurora/Auri/Aura
