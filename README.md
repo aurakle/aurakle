@@ -3,7 +3,7 @@
 ## The Basics
 
 - Names: Aurora/Auri/Aura
-- Pronouns: they/she
+- Pronouns: they/she/it
 - Hobbies: writing, programming, and reading
 
 <a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50"></a>
