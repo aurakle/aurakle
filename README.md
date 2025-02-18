@@ -6,15 +6,9 @@
 - Pronouns: they/she
 - Hobbies: writing, programming, and reading
 
-<a href="https://pride-gen.rash.codes">
-  <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50">
-</a>
-<a href="https://pride-gen.rash.codes">
-  <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/trans.svg" width="50" height="50">
-</a>
-<a href="https://pride-gen.rash.codes">
-  <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
-</a>
+<a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50"></a>
+<a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/trans.svg" width="50" height="50"></a>
+<a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50"></a>
 
 ## Contact Me
 - E-mail: `aurora.dawn@trans.fish`
