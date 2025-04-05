@@ -1,8 +1,7 @@
 # About Me
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StellarWitch7&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarWitch7&theme=transparent&hide_border=true&include_all_commits=true&layout=compact&langs_count=8" /></a>
-
-<a href="https://git.io/streak-stats"><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=StellarWitch7&theme=transparent&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&card_width=900" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StellarWitch7&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&card_width=450"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarWitch7&theme=transparent&hide_border=true&include_all_commits=true&layout=compact&langs_count=8&card_width=450"/></a>
+<a href="https://git.io/streak-stats"><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=StellarWitch7&theme=transparent&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&card_width=900"/></a>
 
 ## The Basics
 
@@ -10,9 +9,9 @@
 - Pronouns: they/she/it
 - Hobbies: writing, programming, and reading
 
-<a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50"></a>
-<a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/trans.svg" width="50" height="50"></a>
-<a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50"></a>
+<a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50"/></a>
+<a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/trans.svg" width="50" height="50"/></a>
+<a href="https://pride-gen.rash.codes"><img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50"/></a>
 
 ## Contact Me
 - E-mail: `aurora.dawn@trans.fish`
