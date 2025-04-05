@@ -1,6 +1,6 @@
 # About Me
 
-![](https://github-readme-stats.vercel.app/api?username=StellarWitch7&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true) [![](https://github-readme-streak-stats.herokuapp.com?user=StellarWitch7&theme=github-dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&card_width=470)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=StellarWitch7&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&card_width=460) [![](https://github-readme-streak-stats.herokuapp.com?user=StellarWitch7&theme=github-dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&card_width=460)](https://git.io/streak-stats)
 
 ## The Basics
 
