@@ -1,5 +1,7 @@
 # About Me
 
+![](https://github-readme-stats.vercel.app/api?username=StellarWitch7&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true) [![](https://github-readme-streak-stats.herokuapp.com?user=StellarWitch7&theme=github-dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&card_height=195&card_width=550)](https://git.io/streak-stats)
+
 ## The Basics
 
 - Names: Aurora/Auri/Aura
@@ -16,6 +18,8 @@
 - Discord: `@stellarwitch7`
 
 ## Languages I've Used
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarWitch7&theme=github_dark&hide_border=true&include_all_commits=true&layout=compact)
 
 [![](https://skillicons.dev/icons?i=rust,cs,scala,nix,java,bash,md,py,mysql,html,css)](https://skillicons.dev)
 
@@ -45,4 +49,4 @@ I host my personal Nix packages publicly at [`StellarWitch/nurpkgs`](https://git
 
 ## Details
 
-[![Metrics](https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+[![](https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
