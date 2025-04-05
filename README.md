@@ -22,8 +22,6 @@
 
 [![](https://skillicons.dev/icons?i=rust,cs,scala,nix,java,bash,md,py,mysql,html,css)](https://skillicons.dev)
 
-![]()
-
 ## Tools I've Used
 
 [![](https://skillicons.dev/icons?i=git,neovim,visualstudio,vscode,rider,idea,clion,pycharm,octave,blender)](https://skillicons.dev)
