@@ -1,6 +1,6 @@
 # About Me
 
-![](https://github-readme-stats.vercel.app/api?username=StellarWitch7&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&card_width=450) [![](https://github-readme-streak-stats.herokuapp.com?user=StellarWitch7&theme=github-dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&card_width=450)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StellarWitch7&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged" /></a><a href="https://git.io/streak-stats"><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=StellarWitch7&theme=transparent&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly" /></a>
 
 ## The Basics
 
@@ -19,9 +19,9 @@
 
 ## Languages I've Used
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarWitch7&theme=github_dark&hide_border=true&include_all_commits=true&layout=compact)
-
 [![](https://skillicons.dev/icons?i=rust,cs,scala,nix,java,bash,md,py,mysql,html,css)](https://skillicons.dev)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarWitch7&theme=transparent&hide_border=true&include_all_commits=true&layout=donut&langs_count=10)
 
 ## Tools I've Used
 
