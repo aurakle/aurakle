@@ -15,7 +15,6 @@
 
 ## Contact Me
 - E-mail: `aurora.dawn@trans.fish`
-- Matrix: `@aurora.dawn:trans.fish`
 - Discord: `@aurakle.v`
 
 ## Languages I've Used
