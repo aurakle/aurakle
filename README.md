@@ -15,7 +15,7 @@
 
 ## Contact Me
 - E-mail: `aurora.dawn@trans.fish`
-- Discord: `@aurakle.v`
+- Discord: `@aurakle.dev`
 
 ## Languages I've Used
 
