@@ -39,4 +39,4 @@
 
 ## Nix Package Repository
 
-I host my personal Nix packages publicly at [`StellarWitch/nurpkgs`](https://github.com/aurakle/nurpkgs). All package definitions are licensed under MIT. 
+I host my personal Nix packages publicly at [`aurakle/nurpkgs`](https://github.com/aurakle/nurpkgs). All package definitions are licensed under MIT. 
